@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/myGraphics">
+        <file>autko1.jpg</file>
+        <file>frog.png</file>
+        <file>jezdnia.png</file>
+        <file>trawa.jpg</file>
+        <file>woda.jpg</file>
+        <file>tirl.png</file>
+        <file>tirp.png</file>
+    </qresource>
+</RCC>
